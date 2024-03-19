@@ -1,5 +1,7 @@
 Sales And Finance Analytics Of AtliQ Hardwares:
+
 Sales Report:
+
 Project Goals:
 
 Customer Performance Report: Created a detailed [report]([url](https://github.com/sameershekh208/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf)) to assess customer performance.
@@ -11,6 +13,7 @@ Importance of Sales Data Analysis: Unveiling sales patterns, tracking essential 
 Reports' Role: Determining effective customer discounts, facilitating negotiations, and identifying expansion opportunities in potential markets.
 
 Finance Report:
+
 Project Goals:
 
 Profit and Loss (P&L) Reports: Created P&L reports by f[iscal years]([url](https://github.com/sameershekh208/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf)) and [P&L reports by fiscal months](https://github.com/sameershekh208/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
